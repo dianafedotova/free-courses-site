@@ -19,12 +19,12 @@ class App extends React.Component {
 
   darkTheme = createMuiTheme({
     palette: {
-      type: 'dark',
+      type: 'light',
       secondary: {
-        light: '#fce4ec',
-        main: '#f8bbd0',
-        dark: '#f48fb1',
-        contrastText: '#000',
+        light: '#FFCDD2',
+        main: '#EF5350',
+        dark: '#B71C1C',
+        contrastText: '#fff',
       },
       primary: {
         light: '#f6a5c0',

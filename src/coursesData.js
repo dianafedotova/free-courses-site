@@ -1,5 +1,16 @@
 export const coursesData = [
   {
+    "id": 71,
+    "title": "Бесплатный курс по созданию сайтов с нуля",
+    "url": "https://ifish2.ru/infofree/",
+    "number": "Один",
+    "cost": "Бесплатно",
+    "language": "Русский",
+    "theme": "Программирование",
+    "comments": "",
+    "course": true
+  },
+  {
     "id": 1,
     "title": "Canvas Network",
     "url": "https://www.canvas.net/",
@@ -147,10 +158,10 @@ export const coursesData = [
     "title": "Skillbox",
     "url": "https://start.skillbox.ru/",
     "number": "Много",
-    "cost": "Бесплатно",
+    "cost": "Бесплатно*",
     "language": "Русский",
     "theme": "Разное",
-    "comments": "",
+    "comments": "Бесплатно до 1 мая",
     "course": true
   },
   {

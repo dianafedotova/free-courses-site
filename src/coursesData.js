@@ -1,5 +1,146 @@
 export const coursesData = [
   {
+    "id": 84,
+    "title": "Unity Learn",
+    "url": "https://learn.unity.com/courses",
+    "number": "Много",
+    "cost": "Бесплатно*",
+    "language": "Английский",
+    "theme": "Программирование",
+    "comments": "Бесплатно три месяца.",
+    "course": true
+  },
+  {
+    "id": 83,
+    "title": "WiseCoW",
+    "url": "https://wisecow.com.ua/",
+    "number": "Много",
+    "cost": "Бесплатно",
+    "language": "Украинский",
+    "theme": "Разное",
+    "comments": "",
+    "course": true
+  },
+  {
+    "id": 82,
+    "title": "HTML Academy",
+    "url": "https://htmlacademy.ru/",
+    "number": "Много",
+    "cost": "Бесплатно*",
+    "language": "Русский",
+    "theme": "Программирование",
+    "comments": "Часть курсов бесплатна.",
+    "course": true
+  },{
+    "id": 81,
+    "title": "Лекции ученых МГУ",
+    "url": "https://teach-in.ru/",
+    "number": "Много",
+    "cost": "Бесплатно",
+    "language": "Русский",
+    "theme": "Разное",
+    "comments": "",
+    "course": true
+  },{
+    "id": 80,
+    "title": "Изучение иностранных языков с нуля!",
+    "url": "https://lingust.ru/",
+    "number": "Много",
+    "cost": "Бесплатно",
+    "language": "Русский",
+    "theme": "Языки",
+    "comments": "",
+    "course": true
+  },
+  {
+    "id": 79,
+    "title": "Future Learn",
+    "url": "https://www.futurelearn.com/courses?filter_category=open&filter_course_type=sponsored&filter_availability=started&all_courses=1",
+    "number": "Много",
+    "cost": "Бесплатно",
+    "language": "Английский",
+    "theme": "Разное",
+    "comments": "",
+    "course": true
+  },
+  {
+    "id": 78,
+    "title": "Курсы British Council",
+    "url": "https://www.britishcouncil.ru/english/mooc",
+    "number": "Много",
+    "cost": "Бесплатно",
+    "language": "Английский",
+    "theme": "Языки",
+    "comments": "",
+    "course": true
+  },
+  {
+    "id": 77,
+    "title": "Онлайн-школа Фоксфорд",
+    "url": "https://foxford.ru/",
+    "number": "Много",
+    "cost": "Бесплатно*",
+    "language": "Русский",
+    "theme": "Школьные знания",
+    "comments": "Бесплатно до конца карантина.",
+    "course": true
+  },
+  {
+    "id": 76,
+    "title": "Платформа для быстрого формирования навыков",
+    "url": "https://skills4u.ru/",
+    "number": "Много",
+    "cost": "Бесплатно*",
+    "language": "Русский",
+    "theme": "Школьные знания",
+    "comments": "Бесплатно до конца карантина.",
+    "course": true
+  },
+  {
+    "id": 75,
+    "title": "Хекслет",
+    "url": "https://ru.hexlet.io/courses?pricing_type_eq=free",
+    "number": "Много",
+    "cost": "Бесплатно",
+    "language": "Русский",
+    "theme": "Программирование",
+    "comments": "",
+    "course": true
+  },
+  {
+    "id": 74,
+    "title": "ОСВІТНІЙ ХАБ МІСТА КИЄВА",
+    "url": "https://eduhub.in.ua/courses",
+    "number": "Много",
+    "cost": "Бесплатно",
+    "language": "Украинский",
+    "theme": "Разное",
+    "comments": "",
+    "course": true
+  },
+  {
+    "id": 73,
+    "title": "Лекториум",
+    "url": "https://www.lektorium.tv/mooc",
+    "number": "Много",
+    "cost": "Бесплатно*",
+    "language": "Русский",
+    "theme": "Разное",
+    "comments": "Среди платных курсов доступны и бесплатные.",
+    "course": true
+  },
+  {
+    "id": 72,
+    "title": "Learn the best JavaScript tools and frameworks.",
+    "url": "https://egghead.io/",
+    "number": "Много",
+    "cost": "Бесплатно",
+    "language": "Английский",
+    "theme": "Программирование",
+    "comments": "",
+    "course": true
+  },
+  {
     "id": 71,
     "title": "Бесплатный курс по созданию сайтов с нуля",
     "url": "https://ifish2.ru/infofree/",
